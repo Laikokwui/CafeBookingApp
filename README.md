@@ -1,5 +1,10 @@
 # cafebooking-android
 
+Data transfer between activities using object via explicit intents
+
+You may refer to the following link for the date and time picker:
+• https://www.journaldev.com/9976/android-date-time-picker-dialog
+
 ## Start Screen - List of cafe and restaurants
 ![image](https://user-images.githubusercontent.com/47911209/182091446-0f8586d9-9eba-47ca-ae54-8c1b500a3a4a.png)
 
